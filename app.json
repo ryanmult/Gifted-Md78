@@ -1,6 +1,8 @@
 {
     "name": "gifted-md@4.0.0",
     "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+    "website": "https://web.giftedtechnexus.co.ke",
+    "repository": "https://github.com/mouricedevs/Gifted-Md",
     "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
     "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
     "success_url": "/",
@@ -28,12 +30,12 @@
         "required": false,
         "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
       },
-      "TZ": {
+      "TIME_ZONE": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
         "value": "Africa/Nairobi"
       },
-         "SUDO": {
+        "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
         "value": "254762016957"
@@ -53,7 +55,7 @@
         "required": false,
         "value": "1"
       },
-        "MENU": {
+        "MENU_STYLE": {
         "description": " Put G2 or G1 to switch between menu modes.",
         "required": false,
         "value": "G2"
@@ -73,7 +75,7 @@
         "value": "",
         "required": true
       },
-      "WAPRESENCE": {
+      "WA_MODE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
         "value": "available"
@@ -122,12 +124,12 @@
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
         "value": "private"
       },
-      "PACK_NAME": {
+      "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
         "value": "ɢɪғᴛᴇᴅ-ᴍᴅ♥️",
         "required": false
       },
-      "PACK_AUTHER": {
+      "STICKER_AUTHOR": {
         "description": "Put Sticker Author_Name.",
         "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
         "required": false
