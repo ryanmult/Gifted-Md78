@@ -103,7 +103,6 @@
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
         "value": "."
-        "required": false
       },
        "MENU_VIDEOS": {
         "description": "User Images",
