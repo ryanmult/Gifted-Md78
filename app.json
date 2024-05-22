@@ -112,12 +112,10 @@
       "THUMB_IMAGE": {
       "description": "Menu Image",
       "value": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg"
-      "required": false
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
         "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
-        "required": false
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -126,7 +124,6 @@
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
         "value": "private"
-        "required": false
       },
       "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
