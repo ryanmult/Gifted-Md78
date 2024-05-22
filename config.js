@@ -13,6 +13,7 @@ global.mongodb = process.env.MONGODB_URI || "mongodb+srv://wasitech10:WASImd##12
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
+global.BUTTONS = process.env.BUTTON_MODE || "1";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github = process.env.GITHUB || "https://github.com/mouricedevs/Gifted-Md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
