@@ -75,7 +75,7 @@
         "value": "",
         "required": true
       },
-      "WA_MODE": {
+      "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
         "value": "available"
