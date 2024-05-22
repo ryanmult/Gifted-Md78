@@ -1,5 +1,5 @@
 {
-    "name": "gifted-md@3.0.0",
+    "name": "gifted-md@4.0.0",
     "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
     "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
@@ -47,6 +47,16 @@
         "description": " Warn count for users to kick/block when warn limit exceed!",
         "required": false,
         "value": "5"
+      },
+        "BUTTON_MODE": {
+        "description": " Put value to 1 or 0 to enable/disable buttoned menu.",
+        "required": false,
+        "value": "1"
+      },
+        "MENU": {
+        "description": " Put G2 or G1 to switch between menu modes.",
+        "required": false,
+        "value": "G2"
       },
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
