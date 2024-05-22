@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.BUTTONS = process.env.BUTTON_MODE || "1";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
+global.timezone = process.env.TIME_ZONE || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github = process.env.GITHUB || "https://github.com/mouricedevs/Gifted-Md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
@@ -29,7 +29,7 @@ global.disablepm = process.env.DISABLE_PM || "true";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.MENU_VIDEOS || "https://telegra.ph/file/6921dd79a48b0b546bc7b.mp4,https://telegra.ph/file/55ce9619821ed5827eb9b.mp4,https://telegra.ph/file/e485ab225efef8362c808.mp4,https://telegra.ph/file/6c439e550c58368cc906a.mp4,https://telegra.ph/file/5ab5ecac579b6d42a897e.mp4";
-global.waPresence = process.env.WAPRESENCE || "available";
+global.waPresence = process.env.WA_MODE || "available";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254762016957,254110853827,254728746852,255655147353,254728782591";
@@ -45,13 +45,13 @@ global.SESSION_ID =
   process.env.SESSION_ID ||
   ""
 module.exports = {
-  menu: process.env.MENU || "G2", /*Leave it in Default else bot will Crash*/
+  menu: process.env.MENU_STYLE || "G2", /*Leave it in Default else bot will Crash*/
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "3.0.0",
+  VERSION: process.env.VERSION || "4.0.0",
   caption: process.env.CAPTION || "*ɢɪғᴛᴇᴅ-ᴍᴅ ᴠᴇʀsɪᴏɴ 4.0.0*",
-  author: process.env.PACK_AUTHER || "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
+  author: process.env.STICKER_AUTHOR || "Gifted Tech",
+  packname: process.env.STICKER_NAME || "Gifted-Md♥️",
   botname: process.env.BOT_NAME || "ɢɪғᴛᴇᴅ-ᴍᴅ",
   ownername: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
   errorChat: process.env.ERROR_CHAT || "",
