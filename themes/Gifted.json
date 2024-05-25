@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Gifted",
-    "theme": "Gifted-Md",
+    "AUTHOR": "silva",
+    "theme": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -21,13 +21,13 @@
             "pmallow": "Hello &user Do not Spam",
             "permited": "Hello Sir you Can Message Me Now.", 
             "revoked" : "Hello sir your Permission was rejected.",
-            "demote": "Admin Role Taken back By Gifted-Md",
+            "demote": "Admin Role Taken back",
             "antlink": "Link Detected.\n*I Have rremoved the violator*",
             "session": "\n kepp your session id safe sir",
             "mention": "Tag my owner",
-            "title": "ɢɪғᴛᴇᴅ-ᴍᴅ",
-            "footer": "*ɢɪғᴛᴇᴅ-ᴍᴅ ᴠᴇʀsɪᴏɴ 3.0.0*\n https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l",
-            "by": "Made by: Gifted",
+            "title": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉",
+            "footer": "*𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉*\n https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v",
+            "by": "Made by: 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
@@ -39,7 +39,7 @@
             "group": "Commnd is for group Only.",
             "private": "Command is for my Owner Only.",
             "bot": "Command is for my Owner Only.",
-            "wait": "Gifted-Md is Processing..."
+            "wait": "silva is Processing..."
         },
         "error": {
             "text": "Dont touch me."
