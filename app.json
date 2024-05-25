@@ -2,8 +2,8 @@
     "name": "gifted-buttoned@4.0.0",
     "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "website": "https://web.giftedtechnexus.co.ke",
-    "repository": "https://github.com/mouricedevs/Gifted-Md",
-    "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+    "repository": "https://github.com/SilvaTechB/SilvaGifted",
+    "logo": "https://telegra.ph/file/751eef74109e0e5c8916c.jpg",
     "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
     "success_url": "/",
     "stack": "container",
@@ -11,7 +11,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Gifted Tech",
+        "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉",
         "required": false
       },
   
@@ -28,7 +28,7 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
+        "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉"
       },
       "TIME_ZONE": {
         "description": "Put TIME_ZONE according to your location",
@@ -38,7 +38,7 @@
         "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254762016957"
+        "value": "254700143167, 254743706010"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -110,11 +110,11 @@
       },
       "THUMB_IMAGE": {
       "description": "Menu Image",
-      "value": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg"
+      "value": https://telegra.ph/file/751eef74109e0e5c8916c.jpg"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
+        "value": "254700143167, 254743706010"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -126,12 +126,12 @@
       },
       "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "ɢɪғᴛᴇᴅ-ᴍᴅ♥️",
+        "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉ᴍᴅ♥️",
         "required": false
       },
       "STICKER_AUTHOR": {
         "description": "Put Sticker Author_Name.",
-        "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+        "value": "☠⃝𝙓𝙚𝙤𝙣☣𝙒𝘼⃝☠ V14 ᴛᴇᴄʜ",
         "required": false
       }
     },
